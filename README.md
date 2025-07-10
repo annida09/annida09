@@ -1,10 +1,11 @@
 ## Hi I'm Annida Elma Cantika Yasmin 👋
 
-📚 Background in Atmospheric Science/Meteorology from Bandung Institute of Technology (ITB), with strong interest in data-driven problem solving  
-🎓 A passionate Data Analyst and Business Analyst
-🌱 Currently learning and building real-world projects in data analytics and visualization  
-💡 Interested in transforming raw data into insights that support impactful decisions  
-🎯 Goal: To become a professional Data Analyst in the fields of environment, business, or public sector.
+- 📚 Background in Atmospheric Science from Bandung Institute of Technology (ITB), with strong interest in data-driven problem solving  
+- 🎓 A passionate Data Analyst and Business Analyst
+- 🌱 Currently learning and building real-world projects in data analytics and visualization  
+- 💡 Interested in transforming raw data into insights that support impactful decisions  
+- 🎯 Goal: To become a professional Data Analyst in the fields of environment, business, or public sector
+
 
 ---
 
@@ -15,6 +16,7 @@
 **Databases:** Basic SQL  
 **Business Tools:** Microsoft Office, Google Workspace, Notion
 **Other:** Git & GitHub, Statistics, EDA, Data Cleaning  
+
 
 ---
 
@@ -35,7 +37,7 @@
 ---
 
 ### 📫 Reach Me
-- 📧 Email: annidaysmnc9218@gmail.com
-- 🌐 LinkedIn: linkedin.com/in/annida-elma-cantika-yasmin
-- 📁 Portfolio:
-- 💻 GitHub: github.com/annida09
+- 📧 **Email:** annidaysmnc9218@gmail.com
+- 🌐 **LinkedIn:** linkedin.com/in/annida-elma-cantika-yasmin
+- 📁 **Portfolio:**
+- 💻 **GitHub:** github.com/annida09
