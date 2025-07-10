@@ -11,11 +11,11 @@
 
 ### 🛠 Skills & Tools
 
-**Data Analysis:** Python, Excel, Google Sheets  
-**Data Visualization:** Power BI, Matplotlib, Seaborn
-**Databases:** Basic SQL  
-**Business Tools:** Microsoft Office, Google Workspace, Notion
-**Other:** Git & GitHub, Statistics, EDA, Data Cleaning  
+- **Data Analysis:** Python, Excel, Google Sheets  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Databases:** Basic SQL  
+- **Business Tools:** Microsoft Office, Google Workspace, Notion
+- **Other:** Git & GitHub, Statistics, EDA, Data Cleaning  
 
 
 
