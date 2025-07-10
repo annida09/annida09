@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Reach Me
-  📧 **Email:** annidaysmnc9218@gmail.com
-  🌐 **LinkedIn:** linkedin.com/in/annida-elma-cantika-yasmin
+- 📧 **Email:** annidaysmnc9218@gmail.com
+- 🌐 **LinkedIn:** linkedin.com/in/annida-elma-cantika-yasmin
 - 📁 **Portfolio:**
 - 💻 **GitHub:** github.com/annida09
