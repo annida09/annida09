@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi I'm Annida Elma Cantika Yasmin 👋
 
-<!--
-**annida09/annida09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Background in Atmospheric Science/Meteorology from Bandung Institute of Technology (ITB), with strong interest in data-driven problem solving  
+🎓 A passionate Data Analyst and Business Analyst
+🌱 Currently learning and building real-world projects in data analytics and visualization  
+💡 Interested in transforming raw data into insights that support impactful decisions  
+🎯 Goal: To become a professional Data Analyst in the fields of environment, business, or public sector.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+
+**Data Analysis:** Python, Excel, Google Sheets  
+**Data Visualization:** Power BI, Matplotlib, Seaborn
+**Databases:** Basic SQL  
+**Business Tools:** Microsoft Office, Google Workspace, Notion
+**Other:** Git & GitHub, Statistics, EDA, Data Cleaning  
+
+---
+### 📌 Projects
+
+-
+
+- 
+
+---
+
+### 🎓 Certifications
+- 🧾 **Python Fundamantal for Data Science** – DQLab 
+- 📊 **Data Analyst Microskill** – Digital Talent Scholarship Kementerian Komunikasi dan Digital
+- 🗂️ **Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server,Snowflake,AWS** - Udemy *(on progress / completed)*  
+- 📈 **Fundamental Data Science** – Digital Talent Scholarship Kementerian Komunikasi dan Digital
+
+---
+
+### 📫 Reach Me
+📧 Email: annidaysmnc9218@gmail.com
+🌐 LinkedIn: linkedin.com/in/annida-elma-cantika-yasmin
+📁 Portfolio:
+💻 GitHub: github.com/annida09
