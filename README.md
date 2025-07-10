@@ -30,15 +30,15 @@
 ---
 
 ### 🎓 Certifications
--🧾 **Python Fundamantal for Data Science** – DQLab 
--📊 **Data Analyst Microskill** – Digital Talent Scholarship Kementerian Komunikasi dan Digital
--🗂️ **Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server,Snowflake,AWS** - Udemy *(on progress / completed)*  
--📈 **Fundamental Data Science** – Digital Talent Scholarship Kementerian Komunikasi dan Digital
+- 🧾 **Python Fundamantal for Data Science** – DQLab 
+- 📊 **Data Analyst Microskill** – Digital Talent Scholarship Kementerian Komunikasi dan Digital
+- 🗂️ **Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server,Snowflake,AWS** - Udemy *(on progress / completed)*  
+- 📈 **Fundamental Data Science** – Digital Talent Scholarship Kementerian Komunikasi dan Digital
 
 ---
 
 ### 📫 Reach Me
--📧 **Email:** annidaysmnc9218@gmail.com
--🌐 **LinkedIn:** linkedin.com/in/annida-elma-cantika-yasmin
--📁 **Portfolio:**
--💻 **GitHub:** github.com/annida09
+  📧 **Email:** annidaysmnc9218@gmail.com
+  🌐 **LinkedIn:** linkedin.com/in/annida-elma-cantika-yasmin
+- 📁 **Portfolio:**
+- 💻 **GitHub:** github.com/annida09
