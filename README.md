@@ -17,6 +17,7 @@
 **Other:** Git & GitHub, Statistics, EDA, Data Cleaning  
 
 ---
+
 ### 📌 Projects
 
 -
@@ -34,7 +35,7 @@
 ---
 
 ### 📫 Reach Me
-📧 Email: annidaysmnc9218@gmail.com
-🌐 LinkedIn: linkedin.com/in/annida-elma-cantika-yasmin
-📁 Portfolio:
-💻 GitHub: github.com/annida09
+- 📧 Email: annidaysmnc9218@gmail.com
+- 🌐 LinkedIn: linkedin.com/in/annida-elma-cantika-yasmin
+- 📁 Portfolio:
+- 💻 GitHub: github.com/annida09
